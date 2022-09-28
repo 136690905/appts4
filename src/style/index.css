@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+.flex{
+    display:flex;
+}
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
+.red{
+    color:red;
+}
+.bgred{
+    background:red;
+}
+.white{
+    color:white;
+}
